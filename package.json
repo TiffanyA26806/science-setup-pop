@@ -1,0 +1,43 @@
+{
+  "name": "science-setup-pop",
+  "version": "0.0.1",
+  "description": "npm for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "science",
+    "setup",
+    "pop"
+  ],
+  "author": "TiffanyA26806",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/TiffanyA26806/science-setup-pop"
+  },
+  "dependencies": {
+    "facebook-java-live": "^0.0.1",
+    "ethers": "^5.0.0",
+    "engine-weixin-alert": "^0.0.1",
+    "js-cli-core": "^0.0.1",
+    "random-api-core": "^0.0.1",
+    "time-vue-react": "^0.0.1",
+    "color-update-ui": "^0.0.1",
+    "checker-update-viewer": "^0.0.1",
+    "alert-cli-dom": "^0.0.1",
+    "mp-kit-button": "^0.0.1",
+    "parse-config-open": "^0.0.1",
+    "loader-react-parse": "^0.0.1",
+    "common-java-inter": "^0.0.1",
+    "pro-alert-mono": "^0.0.1",
+    "alert-cli-open": "^0.0.1",
+    "facebook-button-api": "^0.0.1",
+    "mono-io-log": "^0.0.1",
+    "base-modal-java": "^0.0.1",
+    "setup-game-alipay": "^0.0.1",
+    "mono-parse-web3": "^0.0.1",
+    "log-react-update": "^0.0.1",
+    "quick-toast-cmd": "^0.0.1"
+  }
+}
